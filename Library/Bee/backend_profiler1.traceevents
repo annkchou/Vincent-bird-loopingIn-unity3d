@@ -1,0 +1,529 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1657861280824854, "dur":2588, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280827458, "dur":204, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1657861280827738, "dur":43, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1657861280827783, "dur":821, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1657861280828778, "dur":927, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280829705, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280956669, "dur":255, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280956925, "dur":81, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957006, "dur":93, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957099, "dur":45, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957144, "dur":9, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957154, "dur":57, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957211, "dur":8, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957219, "dur":23, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957242, "dur":8, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957250, "dur":64, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957314, "dur":26, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957340, "dur":66, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957416, "dur":11, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957427, "dur":57, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957484, "dur":10, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957494, "dur":22, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957516, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957537, "dur":5, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280957728, "dur":5559, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1657861280829014, "dur":709, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280829730, "dur":13566, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280843315, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657861280843340, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280844721, "dur":528, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657861280845253, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657861280845369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280845650, "dur":4969, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1657861280850623, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280850825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280850838, "dur":3203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280854176, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280854300, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280854313, "dur":5209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280859622, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280859762, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280859809, "dur":18407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280880339, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280880472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280880488, "dur":4384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280884974, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280885074, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280885086, "dur":3893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280889075, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280889270, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280889282, "dur":2947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280892332, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280892439, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280892452, "dur":4158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280896724, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280896851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280896863, "dur":2756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280899714, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280899821, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280899834, "dur":2629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280902565, "dur":334, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280902905, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280902915, "dur":4246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280907667, "dur":689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280908362, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280908371, "dur":5101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280913583, "dur":390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280914016, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280914026, "dur":2753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280916879, "dur":1915, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280918803, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280918817, "dur":3600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280922557, "dur":513, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280923079, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280923092, "dur":2880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280927117, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280927430, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280927441, "dur":3179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280930723, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280930822, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280930831, "dur":5648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280936591, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280936706, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280936720, "dur":4134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280940984, "dur":8507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280949501, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1657861280949725, "dur":3756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":1, "ts":1657861280953590, "dur":3070, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280829031, "dur":711, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280829742, "dur":13728, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280843471, "dur":210, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1657861280843681, "dur":137, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280843819, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1657861280844007, "dur":1405, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280845414, "dur":350, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280845769, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280845777, "dur":5964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280851866, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280851991, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280852121, "dur":3489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280855707, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280855821, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280855829, "dur":3760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280859703, "dur":111, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280859819, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280859828, "dur":7726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280867694, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280867808, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280867818, "dur":4308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280872246, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280872364, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280872372, "dur":8144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280880821, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280880944, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280880952, "dur":4188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280885260, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280885372, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280885383, "dur":2990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280888478, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280888578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280888585, "dur":2419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280891107, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280891223, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280891231, "dur":2933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280894268, "dur":182, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280894498, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280894549, "dur":4563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280899217, "dur":1002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280900227, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280900238, "dur":3986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280904322, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280904651, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280904661, "dur":2556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280907329, "dur":391, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280907725, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280907735, "dur":2931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280910776, "dur":341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280911126, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280911141, "dur":2554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280913802, "dur":473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280914282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280914294, "dur":3177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280917576, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280917698, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280917710, "dur":5104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280922915, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280923023, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280923034, "dur":2299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280925470, "dur":966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280926445, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280926459, "dur":10256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280936835, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280936957, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280936969, "dur":3151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280940273, "dur":408, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280940690, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280940702, "dur":5367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1657861280946189, "dur":321, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1657861280946517, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280946526, "dur":4423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1657861280951059, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1657861280951170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1657861280951177, "dur":3267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":2, "ts":1657861280954562, "dur":2214, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280829116, "dur":682, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280829799, "dur":13509, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280843313, "dur":271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1657861280843585, "dur":169, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280843756, "dur":215, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1657861280843973, "dur":152, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280844126, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1657861280844329, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280844476, "dur":195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":3, "ts":1657861280844671, "dur":229, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280844901, "dur":45992, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1.exe" }}
+,{ "pid":12345, "tid":3, "ts":1657861280890898, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280890903, "dur":16939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1.exe" }}
+,{ "pid":12345, "tid":3, "ts":1657861280907953, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280908256, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280908269, "dur":12072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280920453, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280920575, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280920629, "dur":2531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Cecil.Rocks.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280923272, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280923420, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280923429, "dur":5864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280929405, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280929535, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280929549, "dur":4243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280933891, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280933996, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280934004, "dur":4806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280938914, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280939028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280939036, "dur":3296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1657861280942442, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1657861280942555, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280942564, "dur":3270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":3, "ts":1657861280945944, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1657861280946068, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280946075, "dur":4564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1657861280950747, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1657861280950854, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1657861280950864, "dur":3110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1657861280954079, "dur":2630, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280829192, "dur":657, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280829850, "dur":13610, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280843461, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1657861280843695, "dur":145, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280843842, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1657861280844040, "dur":150, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280844192, "dur":202, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1657861280844394, "dur":586, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280844982, "dur":3586, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1657861280848578, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280848729, "dur":11522, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1657861280860361, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280860484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280860496, "dur":3455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280864138, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280864264, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280864312, "dur":13255, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280877746, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280877900, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280877914, "dur":6096, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280884116, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280884226, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280884245, "dur":3194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280887543, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280887648, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280887660, "dur":2726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280890476, "dur":337, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280890818, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280890826, "dur":23149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280914147, "dur":332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280914487, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280914499, "dur":7934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280922557, "dur":609, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280923171, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280923179, "dur":21971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1657861280945256, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1657861280945349, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280945356, "dur":2965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":4, "ts":1657861280948441, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1657861280948555, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280948564, "dur":3790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1657861280952463, "dur":313, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1657861280952784, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1657861280952796, "dur":3177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1657861280956070, "dur":689, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280829268, "dur":634, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280829902, "dur":13403, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280843314, "dur":282, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1657861280843596, "dur":161, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280843759, "dur":201, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1657861280843961, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280844147, "dur":205, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1657861280844352, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280844491, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280844703, "dur":100, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280844805, "dur":614, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280845419, "dur":111, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280845531, "dur":224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280845760, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280845769, "dur":10180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280856044, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280856155, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280856167, "dur":4513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280860766, "dur":566, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280861338, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280861348, "dur":7084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280868534, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280868641, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280868653, "dur":3363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280872123, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280872249, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280872262, "dur":3192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280875555, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280875689, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280875701, "dur":4670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280880485, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280880588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280880602, "dur":10025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280890737, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280890846, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280890853, "dur":5074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280896032, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280896137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280896150, "dur":2489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280898759, "dur":754, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280899518, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280899527, "dur":3056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280902667, "dur":319, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280902996, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280903007, "dur":2770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280905877, "dur":306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280906192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280906211, "dur":2690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280909008, "dur":723, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280909741, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280909752, "dur":2917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280912783, "dur":349, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280913141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280913154, "dur":3960, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280917232, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280917563, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280917573, "dur":3599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280921336, "dur":1000, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280922345, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280922354, "dur":8166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Cecil.Pdb.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280930618, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280930786, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280930798, "dur":4174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280935074, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280935183, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280935195, "dur":4232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280939538, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280939643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280939654, "dur":6992, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":5, "ts":1657861280946776, "dur":303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1657861280947084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280947093, "dur":3866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":5, "ts":1657861280951083, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1657861280951196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1657861280951203, "dur":3475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":5, "ts":1657861280954792, "dur":1895, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280829376, "dur":576, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280829952, "dur":13379, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280843332, "dur":307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1657861280843640, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280843804, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1657861280844013, "dur":146, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280844160, "dur":203, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1657861280844363, "dur":172, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280844537, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280844746, "dur":99, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280844847, "dur":488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1657861280845335, "dur":114, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280845451, "dur":116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280845573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280845796, "dur":5665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280851556, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280851657, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280851665, "dur":4444, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280856202, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280856313, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280856325, "dur":4141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280860578, "dur":784, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280861367, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280861375, "dur":3475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280864935, "dur":87, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280865027, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280865035, "dur":3254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280868405, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280868510, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280868518, "dur":3391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280872022, "dur":113, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280872144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280872156, "dur":2789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280875038, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280875144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280875155, "dur":9641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280885015, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280885123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280885131, "dur":8439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280893675, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280893779, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280893786, "dur":4000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280897897, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280898005, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280898013, "dur":2669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280901978, "dur":4511, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280906498, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280906510, "dur":24661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280931652, "dur":110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280931772, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280931784, "dur":2679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280934580, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280934707, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280934720, "dur":2939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280937765, "dur":120, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280937890, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280937899, "dur":3914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":6, "ts":1657861280941920, "dur":328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1657861280942254, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280942371, "dur":3245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1657861280945722, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1657861280945853, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1657861280945865, "dur":7385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1657861280953378, "dur":3307, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280829485, "dur":505, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280829990, "dur":13340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280843331, "dur":1491, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1657861280844822, "dur":2360, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280847185, "dur":304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280847496, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280847507, "dur":4427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280852028, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280852135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280852142, "dur":3440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280855692, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280855803, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280855815, "dur":3516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280859450, "dur":126, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280859581, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280859589, "dur":4087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280863777, "dur":102, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280863887, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280863902, "dur":4261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280868284, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280868407, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280868418, "dur":9554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280878084, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280878322, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280878330, "dur":5718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280884156, "dur":128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280884289, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280884296, "dur":3089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280887486, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280887589, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280887597, "dur":2631, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280890331, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280890438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280890450, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280893219, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280893342, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280893350, "dur":4445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280898131, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280898413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280898426, "dur":12583, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280911122, "dur":332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280911460, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280911469, "dur":2409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280914102, "dur":993, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280915100, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280915109, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280918152, "dur":787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280918948, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280918961, "dur":3017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280922081, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280922210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280922223, "dur":2709, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Cecil.Mdb.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280925063, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280925179, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280925191, "dur":3279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280928574, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280928680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280928688, "dur":3011, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280931799, "dur":672, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280932477, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280932485, "dur":15200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":7, "ts":1657861280948621, "dur":504, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1657861280949131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1657861280949139, "dur":7278, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1657861280956529, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":7, "ts":1657861280956531, "dur":1, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280829563, "dur":483, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280830046, "dur":13272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280843319, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1657861280843634, "dur":728, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280844364, "dur":310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1657861280844675, "dur":553, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280845231, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280845352, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280845744, "dur":5685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280851528, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280851634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280851642, "dur":2758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280854481, "dur":406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280854892, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280854902, "dur":5413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280860430, "dur":98, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280860532, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280860540, "dur":5040, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280865693, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280865825, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280865833, "dur":3692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280869630, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280869739, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280869752, "dur":2623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280872573, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280872691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280872703, "dur":3012, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280875818, "dur":95, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280875918, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280875926, "dur":9079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280885110, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280885220, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280885228, "dur":3846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280889177, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280889284, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280889290, "dur":4885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280894552, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280894710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280894718, "dur":3510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280898473, "dur":423, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280898901, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280898909, "dur":2931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280901942, "dur":473, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280902420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280902428, "dur":2733, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280905268, "dur":330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280905607, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280905621, "dur":2592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280908310, "dur":354, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280908669, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280908735, "dur":13633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280922470, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280922583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280922595, "dur":3037, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/Unity.Burst.Cecil.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280925742, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280925851, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280925863, "dur":3615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280929591, "dur":104, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280929742, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280929751, "dur":3485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280933336, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280933438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280933447, "dur":5789, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280939348, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280939456, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280939504, "dur":8465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1657861280948074, "dur":105, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1657861280948184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1657861280948192, "dur":5403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"exe/ISCT800-Ann-Chou-bird-loopin-scene-week6_1_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1657861280953704, "dur":3000, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1657861280967515, "dur":5434, "ph":"X", "name": "ProfilerWriteOutput" }
+,
